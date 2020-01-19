@@ -1,5 +1,5 @@
 function a = sqnl(n,varargin)
-%TANSIG Symmetric sigmoid transfer function.
+
 %
 % Transfer functions convert a neural network layer's net input into
 % its net output.
