@@ -1,5 +1,5 @@
 function da = forwardprop(dn,n,a,param)
-%TANSIG.FORWARDPROP
+%SQNL.FORWARDPROP
 
 % Dept of ECE, UoA
 
